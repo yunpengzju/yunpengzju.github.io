@@ -6,7 +6,7 @@
 name: 本手
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 云鹏的博客
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/3953346?v=3&u=bb94714fe9de844257972cdd7488e41d97a7a52c&s=140
@@ -18,7 +18,7 @@ avatar: https://avatars0.githubusercontent.com/u/3953346?v=3&u=bb94714fe9de84425
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:iamchenyp@gmail.com
+  email: iamchenyp@gmail.com
   facebook:
   flickr:
   github: yunpengzju
