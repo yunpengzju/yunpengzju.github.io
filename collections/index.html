@@ -4,12 +4,7 @@ layout: default
 
 <div class="posts">
     <ul>
-    {% for post in site.tags.essay %}
-        <li>
-            <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-        </li>
-    {% endfor %}
-    {% for post in site.tags.学习 %}
+    {% for post in site.tags.study %}
         <li>
             <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
         </li>
