@@ -54,6 +54,7 @@ baseurl: ""
 #
 
 markdown: kramdown
+theme: midnight
 highlighter: rouge
 permalink: /:title/
 
