@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 计算机科学基础1——重新开始学习数据结构
+title: 重新开始学习数据结构
 description: 我们为什么学习数据结构
 category: tech
 ---
