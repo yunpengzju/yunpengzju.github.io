@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![陈云鹏](http://tongchenblog.cn/about/IMG_1286.png)
+![陈云鹏](http://image.tongchenblog.cn/about/IMG_1286.png)
 
 陈云鹏，2014年毕业于浙江大学计算机学院，毕业后就职于华为杭州研究所，隶属于IT产品线云操作系统产品部，主要从事网络虚拟化技术开发工作。跌跌撞撞走进云计算领域，没什么技术特长，但菊花厂的熏陶让我对云计算有了些粗浅的了解，也对这个IT领域的变革方向充满了兴趣和信心。  
 
