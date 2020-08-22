@@ -2,7 +2,7 @@
 layout: post
 title: 成长日记
 description: 记录每天的学习收获，见闻启发
-category: study
+category: diary
 ---
 
 之前一直在Day one、Evernote里写笔记，写给自己看，但是很难坚持每天都写。
