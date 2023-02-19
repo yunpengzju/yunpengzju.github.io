@@ -2,7 +2,7 @@
 layout: post
 title: 重启博客计划
 description: 从研发转型产品后的思考
-category: diary
+category: blog
 ---
 
 我平日里有写日记的习惯，每天都要写点东西。之前也曾经维护了一段时间博客，后来想想也不打算推广，只是自己看看，和写日记也没差别，就没有再更新。

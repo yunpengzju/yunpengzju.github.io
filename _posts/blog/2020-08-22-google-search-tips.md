@@ -2,7 +2,7 @@
 layout: post
 title: 你真的会用搜索引擎吗？
 description: 如何利用搜索引擎对问题进行深入研究
-category: diary
+category: blog
 ---
 
 最近在读一本书，名字叫《Joy of search》，作者是Google的一名工程师。
