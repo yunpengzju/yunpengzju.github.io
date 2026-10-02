@@ -7,6 +7,10 @@ category: tech
 
 最近，一个叫 Jev 的 AI 模型受到不少关注。它由前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 推出，专门替软件做判断。9 月中旬发布时，官方给出的宣传相当醒目：在特定工作流中，速度接近两百倍，成本降至原来的四百多分之一。[来源：Jev 发布说明](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
+![左侧装置快速分拣彩色球体，右侧迷宫象征需要探索路径的复杂推理](https://tongchen-blog.oss-cn-hongkong.aliyuncs.com/articles/jev-is-not-a-silver-bullet/cover-20574895f190.jpg)
+
+*AI 生成的概念插图：快速分类与复杂推理。*
+
 Jev 的用法不难理解。给它一段客户留言，问“是不是要退款”“应该交给哪个部门”“客户有多不满”，它就直接返回选项、分数和概率，不会像聊天模型一样写一大段回答。对于需要频繁做这类判断的软件，这种方式很有吸引力。[来源：TypeSafe 文档](https://docs.typesafe.ai/introduction)
 
 但看完这些介绍，很容易产生一个疑问：既然它又快又便宜，判断还很准，我们是不是不再需要原来的大模型了？
