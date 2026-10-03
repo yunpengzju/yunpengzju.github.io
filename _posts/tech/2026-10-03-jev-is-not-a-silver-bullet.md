@@ -9,8 +9,6 @@ category: tech
 
 ![左侧装置快速分拣彩色球体，右侧迷宫象征需要探索路径的复杂推理](https://image.tongchenblog.cn/articles/jev-is-not-a-silver-bullet/cover-20574895f190.jpg)
 
-*AI 生成的概念插图：快速分类与复杂推理。*
-
 Jev 的用法不难理解。给它一段客户留言，问“是不是要退款”“应该交给哪个部门”“客户有多不满”，它就直接返回选项、分数和概率，不会像聊天模型一样写一大段回答。对于需要频繁做这类判断的软件，这种方式很有吸引力。[来源：TypeSafe 文档](https://docs.typesafe.ai/introduction)
 
 但看完这些介绍，很容易产生一个疑问：既然它又快又便宜，判断还很准，我们是不是不再需要原来的大模型了？
