@@ -7,7 +7,7 @@ category: tech
 
 最近，一个叫 Jev 的 AI 模型受到不少关注。它由前 OpenAI 研究员 Diogo Almeida 创办的 TypeSafe AI 推出，专门替软件做判断。9 月中旬发布时，官方给出的宣传相当醒目：在特定工作流中，速度接近两百倍，成本降至原来的四百多分之一。[来源：Jev 发布说明](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
-![左侧装置快速分拣彩色球体，右侧迷宫象征需要探索路径的复杂推理](https://tongchen-blog.oss-cn-hongkong.aliyuncs.com/articles/jev-is-not-a-silver-bullet/cover-20574895f190.jpg)
+![左侧装置快速分拣彩色球体，右侧迷宫象征需要探索路径的复杂推理](https://image.tongchenblog.cn/articles/jev-is-not-a-silver-bullet/cover-20574895f190.jpg)
 
 *AI 生成的概念插图：快速分类与复杂推理。*
 
