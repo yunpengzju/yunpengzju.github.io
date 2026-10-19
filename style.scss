@@ -252,6 +252,41 @@ nav {
 }
 
 .post {
+  .entry > table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 24px 0;
+    overflow-x: auto;
+    border-collapse: collapse;
+    font-size: 16px;
+    line-height: 1.7;
+
+    th, td {
+      min-width: 10em;
+      padding: 12px 16px;
+      border: 1px solid #ddd;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background-color: #f6f8fa;
+      font-weight: 600;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: #fafbfc;
+    }
+
+    @include mobile {
+      th, td {
+        min-width: 9em;
+        padding: 10px 12px;
+      }
+    }
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
